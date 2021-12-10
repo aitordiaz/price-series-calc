@@ -1,0 +1,1 @@
+"""Test suite for the price_series_calc package."""
